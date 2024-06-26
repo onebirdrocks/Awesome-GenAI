@@ -1,64 +1,54 @@
 # Awesome-GenAI
-A curated collection of resources, tools, frameworks, and information related to Generative AI
-
 Welcome to Awesome-GenAI! This repository is a curated collection of resources, tools, frameworks, and information related to Generative AI. Whether you are a beginner looking to learn about the basics or an experienced developer searching for the latest advancements in the field, this repository aims to provide valuable insights and resources to help you on your journey.
 
 ## What is Generative AI?
-
 Generative AI refers to a class of AI algorithms that generate new content, such as text, images, and audio, based on the data they are trained on. These models can create realistic and innovative outputs, making them useful in various applications like content creation, design, and entertainment.
 Repository Structure
 
 ## Table of Content
-Introduction
-Overview of the project
-Basic concepts of Generative AI
-Contribution guidelines
-Learning Resources
-Online courses
-Books and papers
-Tutorials and guides
-Workshops and conferences
-Tools and Frameworks
-Open-source projects
-Development Frameworks
-TensorFlow
-PyTorch
-Hugging Face
-JAX
-Other frameworks
-Libraries and tools
-Development environment setup
-Models
-Pre-trained models
-Natural Language Processing models
-Computer Vision models
-Multimodal models
-Applications
-Text generation
-Image generation
-Audio generation
-Video generation
-Other applications
-Datasets
-Available datasets
-Data collection and processing methods
-Data augmentation techniques
-Research and Papers
-Latest research updates
-Important paper reviews
-Research trends and hotspots
-Community and Events
-Online and offline communities
-Events and conferences
-Contributors list
-Projects and Case Studies
-Success stories
-Project showcases
-Practical experience sharing
-Miscellaneous
-Frequently Asked Questions
-Useful tips
-Recommended resources
+- Introduction
+  Overview of the project
+  Basic concepts of Generative AI
+  Contribution guidelines
+- Learning Resources
+  Online courses
+  Books and papers
+  Tutorials and guides
+  Workshops and conferences
+- Tools and Frameworks
+  Open-source projects
+  Development Frameworks
+  ibraries and tools
+- Models
+  Pre-trained models
+  Natural Language Processing models
+  Computer Vision models
+  Multimodal models
+- Applications
+  Text generation
+  Image generation
+  Audio generation
+  Video generation
+  Other applications
+- Datasets
+  Available datasets
+  Data collection and processing methods
+  Data augmentation techniques
+- Research and Papers
+  Latest research updates
+  Important paper reviews
+  Research trends and hotspots
+- Community and Events
+  Online and offline communities
+  Events and conferences
+- Projects and Case Studies
+  Success stories
+  Project showcases
+  Practical experience sharing
+- Miscellaneous
+  Frequently Asked Questions
+  Useful tips
+  Recommended resources
 
 ## Contribution Guidelines
 
@@ -81,10 +71,10 @@ Push your changes to your forked repository using git push origin feature-branch
 Go to the original repository and click "New Pull Request". Provide a clear and concise description of your changes.
 
 ### Contribution Tips
-Ensure your changes are well-documented and follow the repository structure.
-Test your changes thoroughly before submitting.
-Keep your commits small and focused on a single change or improvement.
-Be respectful and considerate in your interactions with other contributors.
+- Ensure your changes are well-documented and follow the repository structure.
+- Test your changes thoroughly before submitting.
+- Keep your commits small and focused on a single change or improvement.
+- Be respectful and considerate in your interactions with other contributors.
 
 ## Code of Conduct
 
