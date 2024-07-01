@@ -9,15 +9,10 @@ Also, a listed repository should be deprecated if:
 
 Further resources:
 
-* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+* For a list of free GenAI books available for download, go [here](https://github.com/onebirdrocks/Awesome-GenAI/blob/main/books.md).
+* For a list of (mostly) free GenAI courses available online, go [here](https://github.com/onebirdrocks/Awesome-GenAI/blob/main/courses.md).
+* For a list of professional or free-to-attend meetups and local GenAI events, go [here](https://github.com/onebirdrocks/Awesome-GenAI/blob/main/events.md).
 
-* For a list of professional machine learning events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md).
-
-* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
-
-* For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
-
-* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
 
 ## What is Generative AI?
