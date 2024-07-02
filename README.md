@@ -67,3 +67,35 @@ Repository Structure
  ## Learning Resources
  ### Tutorials 
  - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
+ ## Models
+ ### Open Models 
+- Meta
+  - [Llama 3-8|70B](https://llama.meta.com/llama3/)
+  - [Llama 2-7|13|70B](https://llama.meta.com/llama2/)
+  - [Llama 1-7|13|33|65B](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+  - [OPT-1.3|6.7|13|30|66B](https://arxiv.org/abs/2205.01068)
+- Google
+  - [Gemma2-9|27B](https://blog.google/technology/developers/google-gemma-2/)
+  - [Gemma-2|7B](https://blog.google/technology/developers/gemma-open-models/)
+  - [RecurrentGemma-2B](https://github.com/google-deepmind/recurrentgemma)
+  - [T5](https://arxiv.org/abs/1910.10683)
+- Microsoft
+  - [Phi1-1.3B](https://huggingface.co/microsoft/phi-1)
+  - [Phi2-2.7B](https://huggingface.co/microsoft/phi-2)
+  - [Phi3-3.8|7|14B](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)
+- Apple
+  - [OpenELM-1.1|3B](https://huggingface.co/apple/OpenELM)
+- Stability AI
+  - [StableLM-3B](https://huggingface.co/collections/stabilityai/stable-lm-650852cfd55dd4e15cdcb30a)
+  - [StableLM-v2-1.6|12B](https://huggingface.co/collections/stabilityai/stable-lm-650852cfd55dd4e15cdcb30a)
+  - [StableCode-3B](https://huggingface.co/collections/stabilityai/stable-code-64f9dfb4ebc8a1be0a3f7650)
+- DataBricks
+  - [MPT-7B](https://www.databricks.com/blog/mpt-7b)
+  - [DBRX-132B-MoE](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
+- Alibaba
+  - [Qwen-1.8|7|14|72B](https://huggingface.co/collections/Qwen/qwen-65c0e50c3f1ab89cb8704144)
+  - [Qwen1.5-1.8|4|7|14|32|72|110B](https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524)
+  - [CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B)
+  - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
+  - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/)  
