@@ -27,7 +27,7 @@ Repository Structure
 - Learning Resources
     - Online courses
     - Books and papers
-    - Tutorials and guides
+    - Tutorials
     - Workshops and conferences
 - Tools and Frameworks
     - Open-source projects
@@ -63,3 +63,7 @@ Repository Structure
     - Frequently Asked Questions
     - Useful tips
     - Recommended resources
+
+ ## Learning Resources
+ ### Tutorials 
+ - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
