@@ -18,6 +18,7 @@ Further resources:
 ## What is Generative AI?
 Generative AI refers to a class of AI algorithms that generate new content, such as text, images, and audio, based on the data they are trained on. These models can create realistic and innovative outputs, making them useful in various applications like content creation, design, and entertainment.
 
+<img src="./What-is-GenAI" alt="./What-is-GenAI" width="60%"/>
 
 This diagram illustrates the hierarchical relationship between AI, Machine Learning, Deep Learning, GenAI, and LLM:
 - **AI**  encompasses all technologies that simulate human intelligence.
