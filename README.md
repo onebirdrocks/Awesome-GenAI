@@ -17,7 +17,14 @@ Further resources:
 
 ## What is Generative AI?
 Generative AI refers to a class of AI algorithms that generate new content, such as text, images, and audio, based on the data they are trained on. These models can create realistic and innovative outputs, making them useful in various applications like content creation, design, and entertainment.
-Repository Structure
+
+
+This diagram illustrates the hierarchical relationship between AI, Machine Learning, Deep Learning, GenAI, and LLM:
+- **AI**  encompasses all technologies that simulate human intelligence.
+- **Machine Learning** is a subset of AI, emphasizing learning from data and algorithms.
+- **Deep Learning** is a subset of Machine Learning, utilizing multi-layer neural networks to handle complex data.
+- **GenAI** (Generative AI) is an application of Deep Learning, focusing on generating new data.
+- **LLM** (Large Language Models) is a branch of GenAI, specifically large-scale neural networks that generate and understand natural language text.
 
 ## Table of Contents
 - Introduction
