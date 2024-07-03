@@ -73,6 +73,8 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
     - Recommended resources
 
  ## Learning Resources
+ ### Paper
+ - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Most modern LLMs rely on the transformer architecture, which is a deep neural network architecture introduced in the 2017 paper "Attention Is All You Need"
  ### Tutorials 
  - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
