@@ -38,9 +38,8 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
     - Tutorials
     - Workshops and conferences
 - Tools and Frameworks
-    - Open-source projects
     - Development Frameworks
-    - Libraries and tools
+    - Open-source projects
 - Models
     - Pre-trained models
     - Natural Language Processing models
@@ -108,4 +107,12 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
   - [Qwen1.5-1.8|4|7|14|32|72|110B](https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524)
   - [CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B)
   - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
-  - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/)  
+  - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/)
+
+## Tools & Frameworks
+### Development Frameworks
+- [Langchain](https://langchain.com) - LangChain is a framework to build with LLMs by chaining interoperable components. LangGraph is the framework for building controllable agentic workflows.
+- [LamaIndex](https://www.llamaindex.ai/) - LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models.
+- [Flowise](https://flowiseai.com/) Open source low-code tool for developers to build customized LLM orchestration flow & AI agents
+
+### Open-source projects
