@@ -120,3 +120,5 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 - [Langdock](https://www.langdock.com/) -  Empower your employees with LLMs while staying in full control of your data. Chat with your internal knowledge, automate workflows, and build custom assistants. LangDock was built for developers searching for an all-in-one product suite for creating, testing, deploying, and monitoring their LLM plugins. It lets you add your API documentation manually or import an existing OpenAPI specification.
 
 ### Open-source projects
+#### TTS
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - a versatile instant voice cloning approach that requires only a short audio clip from the reference speaker to replicate their voice and generate speech in multiple languages.
