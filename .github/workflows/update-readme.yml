@@ -42,4 +42,4 @@ jobs:
           git config --global user.email 'rymrocks@163.com'
           git add README.md
           git commit -m 'Update README with latest stats'
-          git push https://onebirdrocks:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/onebirdrocks/Awesome-GenAI.git
+          git push https://onebirdrocks:${{secrets.PERSONAL_ACCESS_TOKEN}}@github.com/onebirdrocks/Awesome-GenAI.git
