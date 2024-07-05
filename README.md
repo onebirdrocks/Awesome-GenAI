@@ -112,7 +112,7 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 ## Tools & Frameworks
 ### Development Frameworks
 - [Langchain](https://langchain.com) - LangChain is a framework to build with LLMs by chaining interoperable components. LangGraph is the framework for building controllable agentic workflows.
-- [LamaIndex](https://www.llamaindex.ai/) - LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models. 
+- [LamaIndex](https://www.llamaindex.ai/) - LlamaIndex is a simple, flexible data framework for connecting custom data sources to large language models.
 - [Flowise](https://flowiseai.com/) - Open source low-code tool for developers to build customized LLM orchestration flow & AI agents
 - [Auto-GPT](https://autogpt.net/) - Auto-GPT is a software program that allows you to configure and deploy autonomous AI agents and aims to transform GPT-4 into a fully autonomous chatbot. While LangChain is a toolkit that connects various LLMs and utility packages to create customized applications, Auto-GPT is designed to execute codes and commands to deliver specific goal-oriented solutions with an output that's easy to understand. While impressive, at this stage, Auto-GPT has a tendency to get stuck in infinite logic loops and rabbit holes.
 - [AgentGPT](https://agentgpt.reworkd.ai/) - AgentGPT is designed for organizations that wish to deploy autonomous AI agents in their browsers. While Auto-GPT operates independently and generates its own prompts, Agent GPT depends on user inputs and works by interacting with humans to achieve tasks. Though still in the beta stage, AgentGPT currently provides long-term memory and web browsing capabilities.
