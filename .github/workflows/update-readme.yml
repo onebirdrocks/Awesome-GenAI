@@ -30,6 +30,12 @@ jobs:
       - name: Run update script
         run: python update_readme.py
 
+      - name: Debug PAT Permissions
+        run: |
+          echo "Checking PAT permissions"
+          curl -H "Authorization: token ${{ secrets.PERSONAL_ACCESS_TOKEN }}" https://api.github.com/user/repos
+
+
       - name: Commit changes
         run: |
           git config --global user.name 'onebirdrocks'
