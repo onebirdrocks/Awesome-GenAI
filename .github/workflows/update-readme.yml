@@ -22,7 +22,7 @@ jobs:
           chmod 644 ~/.ssh/known_hosts
           
       - name: Start ssh-agent
-        uses: webfactory/ssh-agent@v0.7.1
+        uses: webfactory/ssh-agent@v0.5.4
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
         
