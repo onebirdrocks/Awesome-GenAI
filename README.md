@@ -125,3 +125,6 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 ### Open-source projects
 #### TTS
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - a versatile instant voice cloning approach that requires only a short audio clip from the reference speaker to replicate their voice and generate speech in multiple languages. [![Forks](https://img.shields.io/github/forks/myshell-ai/OpenVoice?style=social)](https://github.com/myshell-ai/OpenVoice/network/members) [![Stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social)](https://github.com/myshell-ai/OpenVoice/stargazers)
+### Clothing
+- [IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild.
+- [agicClothing](https://github.com/ShineChen1024/MagicClothing) - Official implementation of Magic Clothing: Controllable Garment-Driven Image Synthesis.
