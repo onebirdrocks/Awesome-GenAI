@@ -124,6 +124,14 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 ### Open-source projects
 #### TTS
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - a versatile instant voice cloning approach that requires only a short audio clip from the reference speaker to replicate their voice and generate speech in multiple languages. [![Forks](https://img.shields.io/github/forks/myshell-ai/OpenVoice?style=social)](https://github.com/myshell-ai/OpenVoice/network/members) [![Stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social)](https://github.com/myshell-ai/OpenVoice/stargazers)
+- [Coqui TTS](https://github.com/coqui-ai/TTS) - A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
+- [NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech).
+- [Vits](https://github.com/jaywalnut310/vits) -  Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech.
+- [tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial).
+- [tacotron2](https://github.com/NVIDIA/tacotron2) - PyTorch implementation with faster-than-realtime inference.
+- [FastSpeech](https://github.com/ming024/FastSpeech2) - An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech.
+
+
 ### Clothing
 - [IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild. [![Forks](https://img.shields.io/github/forks/yisol/IDM-VTON?style=social)](https://github.com/yisol/IDM-VTON/network/members) [![Stars](https://img.shields.io/github/stars/yisol/IDM-VTON?style=social)](https://github.com/yisol/IDM-VTON/stargazers)
 - [agicClothing](https://github.com/ShineChen1024/MagicClothing) - Official implementation of Magic Clothing: Controllable Garment-Driven Image Synthesis. [![Forks](https://img.shields.io/github/forks/ShineChen1024/MagicClothing?style=social)](https://github.com/ShineChen1024/MagicClothing/network/members) [![Stars](https://img.shields.io/github/stars/ShineChen1024/MagicClothing?style=social)](https://github.com/ShineChen1024/MagicClothing/stargazers)
