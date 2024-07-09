@@ -141,3 +141,11 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run. [![Forks](https://img.shields.io/github/forks/princeton-nlp/SWE-agent?style=social)](https://github.com/princeton-nlp/SWE-agent/network/members) [![Stars](https://img.shields.io/github/stars/princeton-nlp/SWE-agent?style=social)](https://github.com/princeton-nlp/SWE-agent/stargazers)
 ### Virtual Human
 [MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising by Tencent [![Forks](https://img.shields.io/github/forks/TMElyralab/MuseV?style=social)](https://github.com/TMElyralab/MuseV/network/members) [![Stars](https://img.shields.io/github/stars/TMElyralab/MuseV?style=social)](https://github.com/TMElyralab/MuseV/stargazers)
+
+### Text2SQL
+- [Vanna](https://github.com/vanna-ai/vanna) - Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG.
+- [SQLCoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries.
+- [SQLChat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade.
+- [Dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs.
+- [WrenAI](https://github.com/Canner/WrenAI) - Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.
+
