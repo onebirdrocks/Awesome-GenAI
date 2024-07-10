@@ -151,4 +151,6 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 - [SQLChat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade. [![Forks](https://img.shields.io/github/forks/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/network/members) [![Stars](https://img.shields.io/github/stars/sqlchat/sqlchat?style=social)](https://github.com/sqlchat/sqlchat/stargazers)
 - [Dataherald](https://github.com/Dataherald/dataherald) - Interact with your SQL database, Natural Language to SQL using LLMs. [![Forks](https://img.shields.io/github/forks/Dataherald/dataherald?style=social)](https://github.com/Dataherald/dataherald/network/members) [![Stars](https://img.shields.io/github/stars/Dataherald/dataherald?style=social)](https://github.com/Dataherald/dataherald/stargazers)
 - [WrenAI](https://github.com/Canner/WrenAI) - Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely. [![Forks](https://img.shields.io/github/forks/Canner/WrenAI?style=social)](https://github.com/Canner/WrenAI/network/members) [![Stars](https://img.shields.io/github/stars/Canner/WrenAI?style=social)](https://github.com/Canner/WrenAI/stargazers)
-
+### Deep Fake
+- [SadTalker](https://github.com/OpenTalker/SadTalker) - SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation.
+- [Facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer.
