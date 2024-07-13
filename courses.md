@@ -8,6 +8,7 @@ The following is a list of free courses on GenAI.
     * [ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
     * [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
     * [Mastering GitHub Copilot for AI Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+* [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 
 
 
