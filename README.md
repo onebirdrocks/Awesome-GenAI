@@ -81,7 +81,7 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
  - [Build a Large Language Model from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 
 ### blogs
-- Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance
+* [Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance](https://ai.meta.com/blog/voicebox-generative-ai-model-speech/)  
 ### books
 - Build a Large Language Model (From Scratch) - [Free Chapters]
 - Generative AI in Action - [Free Chapters]
