@@ -7,13 +7,6 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly says that "this library is not maintained".
 * Not committed for a long time (2~3 years).
 
-Further resources:
-
-* For a list of free GenAI books available for download, go [here](https://github.com/onebirdrocks/Awesome-GenAI/blob/main/books.md).
-* For a list of (mostly) free GenAI courses available online, go [here](https://github.com/onebirdrocks/Awesome-GenAI/blob/main/courses.md).
-* For a list of professional or free-to-attend meetups and local GenAI events, go [here](https://github.com/onebirdrocks/Awesome-GenAI/blob/main/events.md).
-
-
 
 ## What is Generative AI?
 Generative AI refers to a class of AI algorithms that generate new content, such as text, images, and audio, based on the data they are trained on. These models can create realistic and innovative outputs, making them useful in various applications like content creation, design, and entertainment.
@@ -36,6 +29,7 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
     - Online courses
     - Books and papers
     - Tutorials
+    - Blogs
     - Workshops and conferences
 - Tools and Frameworks
     - Development Frameworks
@@ -86,6 +80,8 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
  - [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time [![Forks](https://img.shields.io/github/forks/naklecha/llama3-from-scratch?style=social)](https://github.com/naklecha/llama3-from-scratch/network/members) [![Stars](https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social)](https://github.com/naklecha/llama3-from-scratch/stargazers)
  - [Build a Large Language Model from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 
+### blogs
+- Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance
 ### books
 - Build a Large Language Model (From Scratch) - [Free Chapters]
 - Generative AI in Action - [Free Chapters]
