@@ -120,9 +120,9 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 
 ## Tools & Frameworks
 ### ML
-- [Pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-- [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-- [MLX](https://github.com/ml-explore/mlx) - An array framework for Apple silicon.
+- [Pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [![Forks](https://img.shields.io/github/forks/pytorch/pytorch?style=social)](https://github.com/pytorch/pytorch/network/members) [![Stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)](https://github.com/pytorch/pytorch/stargazers)
+- [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone. [![Forks](https://img.shields.io/github/forks/tensorflow/tensorflow?style=social)](https://github.com/tensorflow/tensorflow/network/members) [![Stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=social)](https://github.com/tensorflow/tensorflow/stargazers)
+- [MLX](https://github.com/ml-explore/mlx) - An array framework for Apple silicon. [![Forks](https://img.shields.io/github/forks/ml-explore/mlx?style=social)](https://github.com/ml-explore/mlx/network/members) [![Stars](https://img.shields.io/github/stars/ml-explore/mlx?style=social)](https://github.com/ml-explore/mlx/stargazers)
 ### Development Frameworks
 - [Langchain](https://github.com/langchain-ai/langchain) - Build context-aware reasoning applications. [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain/network/members) [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain/stargazers)
 - [LamaIndex](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications. [![Forks](https://img.shields.io/github/forks/run-llama/llama_index?style=social)](https://github.com/run-llama/llama_index/network/members) [![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)](https://github.com/run-llama/llama_index/stargazers)
