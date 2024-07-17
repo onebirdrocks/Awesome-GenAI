@@ -119,6 +119,10 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
   - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/)
 
 ## Tools & Frameworks
+### ML
+- [Pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
+- [MLX](https://github.com/ml-explore/mlx) - An array framework for Apple silicon.
 ### Development Frameworks
 - [Langchain](https://github.com/langchain-ai/langchain) - Build context-aware reasoning applications. [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain/network/members) [![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain/stargazers)
 - [LamaIndex](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications. [![Forks](https://img.shields.io/github/forks/run-llama/llama_index?style=social)](https://github.com/run-llama/llama_index/network/members) [![Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)](https://github.com/run-llama/llama_index/stargazers)
