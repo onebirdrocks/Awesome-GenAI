@@ -152,6 +152,7 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
 - [tacotron](https://github.com/keithito/tacotron) - A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial). [![Forks](https://img.shields.io/github/forks/keithito/tacotron?style=social)](https://github.com/keithito/tacotron/network/members) [![Stars](https://img.shields.io/github/stars/keithito/tacotron?style=social)](https://github.com/keithito/tacotron/stargazers)
 - [tacotron2](https://github.com/NVIDIA/tacotron2) - PyTorch implementation with faster-than-realtime inference. [![Forks](https://img.shields.io/github/forks/NVIDIA/tacotron2?style=social)](https://github.com/NVIDIA/tacotron2/network/members) [![Stars](https://img.shields.io/github/stars/NVIDIA/tacotron2?style=social)](https://github.com/NVIDIA/tacotron2/stargazers)
 - [FastSpeech](https://github.com/ming024/FastSpeech2) - An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech. [![Forks](https://img.shields.io/github/forks/ming024/FastSpeech2?style=social)](https://github.com/ming024/FastSpeech2/network/members) [![Stars](https://img.shields.io/github/stars/ming024/FastSpeech2?style=social)](https://github.com/ming024/FastSpeech2/stargazers)
+- [VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model.
 
 
 ### Clothing(Visual Try on)
