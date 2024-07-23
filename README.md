@@ -80,7 +80,7 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
  - [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time [![Forks](https://img.shields.io/github/forks/naklecha/llama3-from-scratch?style=social)](https://github.com/naklecha/llama3-from-scratch/network/members) [![Stars](https://img.shields.io/github/stars/naklecha/llama3-from-scratch?style=social)](https://github.com/naklecha/llama3-from-scratch/stargazers)
  - [Build a Large Language Model from Scratch](https://github.com/rasbt/LLMs-from-scratch)
  - [Simple Guide to Local LLM Fine tuning on a Mac with MLX](https://apeatling.com/articles/simple-guide-to-local-llm-fine-tuning-on-a-mac-with-mlx/)
- - [Elasticsearch Labs](https://github.com/elastic/elasticsearch-labs) - Notebooks & Example Apps for Search & AI Applications with Elasticsearch.
+ - [Elasticsearch Labs](https://github.com/elastic/elasticsearch-labs) - Notebooks & Example Apps for Search & AI Applications with Elasticsearch. [![Forks](https://img.shields.io/github/forks/elastic/elasticsearch-labs?style=social)](https://github.com/elastic/elasticsearch-labs/network/members) [![Stars](https://img.shields.io/github/stars/elastic/elasticsearch-labs?style=social)](https://github.com/elastic/elasticsearch-labs/stargazers)
 
 ### blogs
 * [Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance](https://ai.meta.com/blog/voicebox-generative-ai-model-speech/)  
