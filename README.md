@@ -120,7 +120,7 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
   - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL)
   - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/)
 ## Benchmark 
-- [llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM.
+- [llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM. [![Forks](https://img.shields.io/github/forks/OpenGenerativeAI/llm-colosseum?style=social)](https://github.com/OpenGenerativeAI/llm-colosseum/network/members) [![Stars](https://img.shields.io/github/stars/OpenGenerativeAI/llm-colosseum?style=social)](https://github.com/OpenGenerativeAI/llm-colosseum/stargazers)
 ## Tools & Frameworks
 ### ML
 - [Pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [![Forks](https://img.shields.io/github/forks/pytorch/pytorch?style=social)](https://github.com/pytorch/pytorch/network/members) [![Stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)](https://github.com/pytorch/pytorch/stargazers)
