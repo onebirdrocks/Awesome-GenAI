@@ -69,6 +69,7 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
  ### Paper
  - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Most modern LLMs rely on the transformer architecture, which is a deep neural network architecture introduced in the 2017 paper "Attention Is All You Need"
  - [TTS Papers](https://github.com/coqui-ai/TTS-papers) - Collection of TTS papers. [![Forks](https://img.shields.io/github/forks/coqui-ai/TTS-papers?style=social)](https://github.com/coqui-ai/TTS-papers/network/members) [![Stars](https://img.shields.io/github/stars/coqui-ai/TTS-papers?style=social)](https://github.com/coqui-ai/TTS-papers/stargazers)
+ - [Fun Audo LLM Paper](https://funaudiollm.github.io/)
  ### Tutorials 
  - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
  - [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
