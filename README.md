@@ -61,9 +61,9 @@ This diagram illustrates the hierarchical relationship between AI, Machine Learn
     - Project showcases
     - Practical experience sharing
 - Miscellaneous
-    - Frequently Asked Questions
-    - Useful tips
-    - Recommended resources
+    - Paid tutorials
+    - Paid services
+
 
  ## Learning Resources
  ### Paper
